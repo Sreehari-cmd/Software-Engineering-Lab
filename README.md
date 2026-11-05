@@ -26,16 +26,11 @@ The Online Food Delivery App is intended to help customers find restaurants, vie
 
 ## Requirements
 
-The project requirements are documented in the Software Requirements Specification (SRS). The functional requirements cover account access, food discovery, cart management, checkout, payment, order-status updates, tracking, order history, ratings, and role-specific order handling.
-
-See [Requirements Overview](docs/requirements-overview.md) for a concise checklist.
+The Software Requirements Specification (SRS) is the main reference for detailed requirements. See [Requirements Overview](docs/requirements-overview.md) for a concise checklist.
 
 ## Storyboard and task tracking
 
-Project work is tracked through GitHub Issues and the GitHub Projects board:
-
-- [Project issues](../../issues)
-- [Project board](../../projects)
+Project work is tracked through [GitHub Issues](../../issues), the [GitHub Projects board](../../projects), and the [Project Plan](docs/project-plan.md).
 
 The board uses three status columns:
 
@@ -43,24 +38,11 @@ The board uses three status columns:
 - **In Progress** — work currently being done
 - **Done** — work that has actually been completed
 
-Update an issue's status as the work progresses. Do not mark a task as complete until its deliverable is finished.
+Move each task as work progresses. Do not mark a task complete until its deliverable is finished.
 
 ## Project deliverables
 
-The planned deliverables include:
-
-- Problem definition and project objectives
-- Stakeholder identification
-- Software Requirements Specification
-- Use case, activity, ER, DFD, sequence, and class/object diagrams
-- Basic web application and prototype
-- Test cases and test results
-- Problems and solutions documentation
-- Final project summary
-
-## Current status
-
-The repository and initial task-tracking issues have been created. Design, implementation, and testing tasks should be moved through the storyboard as they are completed.
+The storyboard contains eight main tasks: ER diagram, activity diagram, object diagram, basic web application, application prototype, testing, problems and solutions documentation, and final project summary.
 
 ## Author
 
