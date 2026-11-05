@@ -42,7 +42,7 @@ Move each task as work progresses. Do not mark a task complete until its deliver
 
 ## Project deliverables
 
-The storyboard contains eight main tasks: ER diagram, activity diagram, object diagram, basic web application, application prototype, testing, problems and solutions documentation, and final project summary.
+The storyboard contains 14 tasks covering project definition, stakeholders, SRS, diagrams, web application design, prototype, testing, problems and solutions, and final summary.
 
 ## Author
 
