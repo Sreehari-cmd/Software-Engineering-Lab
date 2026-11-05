@@ -1,24 +1,36 @@
-# Git Workshop Toolkit
+# Online Food Delivery App
 
-A 38-task "Git Speedrun" competition kit for a
-hands-on Git workshop: per-team starter repos
-with real seeded history, a guaranteed merge
-conflict, a guaranteed rebase conflict, a local
-fake "remote" (no GitHub accounts needed), and
-an optional auto-scoring script.
+## Project Overview
 
-Start with [speedrun/README.md](speedrun/README.md).
+The **Online Food Delivery App** is designed to make ordering food online convenient for customers. Customers can create an account, log in, search for restaurants and food items, view menus and prices, add items to a cart, place orders, make payments, and track their orders.
 
-## Lab deliverables
+The system also supports restaurant staff in accepting and updating orders, while delivery partners can update the delivery status of their assigned orders.
 
-- [Project board (storyboard)](YOUR_PROJECT_BOARD_LINK)
-  — live GitHub Projects kanban of the user stories.
+## Objectives
 
-- [docs/storyboard.md](docs/storyboard.md)
-  — progress storyboard for the 38 lab tasks
-  (user stories + done/in-progress/to-do tracking).
+- Provide a convenient platform for customers to browse restaurants and order food.
+- Allow customers to manage their cart and place orders.
+- Support payment and order-status tracking.
+- Help restaurant staff manage incoming orders.
+- Allow delivery partners to update the status of assigned deliveries.
 
-- [docs/test-cases.md](docs/test-cases.md)
-  — full test case suite for the 38 tasks
-  (steps, expected results, automated vs. manual
-  verification, pass/fail).
+## Main Features
+
+- Customer registration and login
+- Restaurant and food search
+- Menu, price and availability viewing
+- Add and remove items from the shopping cart
+- Order placement and payment
+- Order tracking and status notifications
+- Order history and ratings
+- Restaurant order management
+- Delivery-status updates by delivery partners
+
+## Lab Deliverables
+
+- **GitHub Project Board:** Tracks project tasks and their progress.
+- **[Test Cases](Test-Cases.md):** Contains planned test cases for the Online Food Delivery App, including test scenarios, steps and expected results.
+
+## Testing Note
+
+The test cases in this repository are documented for planned testing. Their actual results and statuses should be updated after the tests are executed.
